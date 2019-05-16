@@ -1,0 +1,5 @@
+文件说明：
+1.info_gain.py  Python3 求解熵和信息增益
+2.tree_ID3.py   Python3 使用ID3算法生成决策树并测试
+3.tree_visual   Python3 决策树的可视化
+4。tree_store   Python3 决策树的存储
